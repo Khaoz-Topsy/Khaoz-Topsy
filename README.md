@@ -1,15 +1,10 @@
-### Hi there, I'm Kurt 👋
+# Hi there, I'm Kurt 👋
 
-## I love to learn by building projects and at this point I may have too many running at the same time 😅
+## I love to learn by building projects 😅
 - 🔭 I’m currently working on creating a bunch of [Assistant Apps][assistantAppsWebsite]!
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Flutter
 - 🥅 2020 Goals: Start my own Open Source projects
-
-### Contact me:
-[<img align="left" alt="kurtlourens.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Kurt's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kurt's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -20,6 +15,11 @@
 - Assistant for TOPSECRET
 
 <br />
+
+### Contact me:
+[<img align="left" alt="kurtlourens.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Kurt's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Kurt's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ---
 
