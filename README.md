@@ -25,6 +25,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Static Site generation the hard way](https://blog.kurtlourens.com/static-site-generation-the-hard-way/)
+- [AssistantNMS Incident 2020-03-31](https://blog.kurtlourens.com/assistantnms-incident-1/)
+- [Intro to Flutter](https://blog.kurtlourens.com/intro-to-flutter/)
+- [Creating an App for No Man's Sky](https://blog.kurtlourens.com/nms-creating-an-app/)
+- [Flutter CI Android App Bundle 📦](https://blog.kurtlourens.com/flutter-ci-android-app-bundle-aab/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
