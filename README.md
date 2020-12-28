@@ -4,20 +4,20 @@
 - 🔭 I’m currently working on creating a bunch of [Assistant Apps][assistantAppsWebsite]!
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Flutter
-- 🥅 2020 Goals: Start my own Open Source projects
+- 🥅 2021 Goals: Get `Assistant for TOPSECRET` released on Google Play and Apple App Store
 
 ### Projects:
 
-- [<img align="left" alt="kurtlourens.com" width="22px" src="https://avatars0.githubusercontent.com/u/54021133?s=60&v=4" />][assistantnms]Assistant for No Man's Sky
-- [<img align="left" alt="kurtlourens.com" width="22px" src="https://avatars2.githubusercontent.com/u/66905801?s=60&v=4" />][assistantsms]Assistant for Scrap Mechanic
-- Assistant for TOPSECRET
+- [<img align="left" alt="nmsassistant.com" width="22px" src="./img/assistantNMS.png" />][assistantnms]Assistant for No Man's Sky
+- [<img align="left" alt=scrapassistant.com" width="22px" src="./img/assistantSMS.png" />][assistantsms]Assistant for Scrap Mechanic
+- [<img align="left" alt="secret.com" width="22px" src="./img/unknown.png" />][Assistant for TOPSECRET]Assistant for TOPSECRET
 
 
 ### Contact me:
-[<img align="left" alt="kurtlourens.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Kurt's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />][email]
-[<img align="left" alt="Kurt's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kurt's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="kurtlourens.com" width="22px" src="./img/globe.svg" />][email]
+[<img align="left" alt="Email" width="22px" src="./img/email.svg" />][email]
+[<img align="left" alt="Twitter" width="22px" src="./img/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="./img/linkedIn.svg" />][linkedin]
 
 <br />
 
