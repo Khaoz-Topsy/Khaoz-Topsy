@@ -31,6 +31,8 @@
 <img align="left" alt="Storybook" width="22px" src="./img/storybook.svg" />
 <img align="left" alt="Arduino" width="22px" src="./img/arduino.svg" />
 
+<br />
+
 ### Contact me:
 [<img align="left" alt="kurtlourens.com" width="22px" src="./img/KurtAvatar.svg" />][website]
 [<img align="left" alt="Email" width="22px" src="./img/email.svg" />][email]
