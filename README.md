@@ -10,7 +10,7 @@
 
 - [<img align="left" alt="nmsassistant.com" width="22px" src="./img/assistantNMS.png" />][assistantnms]Assistant for No Man's Sky
 - [<img align="left" alt="scrapassistant.com" width="22px" src="./img/assistantSMS.png" />][assistantsms]Assistant for Scrap Mechanic
-- [<img align="left" alt="secret.com" width="22px" src="./img/unknown.png" />][AssistantTopsy]Assistant for TOPSECRET
+- [<img align="left" alt="secret.com" width="22px" src="./img/unknown.png" />]Assistant for TOPSECRET
 
 ### Favourite Technologies:
 <img align="left" alt="C#" width="22px" src="./img/c-sharp.svg" />
