@@ -10,7 +10,7 @@
 
 - [<img align="left" alt="nmsassistant.com" width="22px" src="./img/assistantNMS.png" />][assistantnms]Assistant for No Man's Sky
 - [<img align="left" alt="scrapassistant.com" width="22px" src="./img/assistantSMS.png" />][assistantsms]Assistant for Scrap Mechanic
-- [<img align="left" alt="secret.com" width="22px" src="./img/unknown.png" />]Assistant for TOPSECRET
+- [<img align="left" alt="secret.com" width="22px" src="./img/unknown.png" />][website]Assistant for TOPSECRET
 
 ### Favourite Technologies:
 <img align="left" alt="C#" height="22px" src="./img/c-sharp.svg" />
@@ -30,6 +30,8 @@
 <img align="left" alt="Semantic UI" height="22px" src="./img/semantic-ui.svg" />
 <img align="left" alt="Storybook" height="22px" src="./img/storybook.svg" />
 <img align="left" alt="Arduino" height="22px" src="./img/arduino.svg" />
+
+<br />
 
 ### Contact me:
 [<img align="left" alt="kurtlourens.com" height="22px" src="./img/KurtAvatar.svg" />][website]
