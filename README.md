@@ -13,26 +13,26 @@
 - [<img align="left" alt="secret.com" width="22px" src="./img/unknown.png" />]Assistant for TOPSECRET
 
 ### Favourite Technologies:
-<img align="left" alt="C#" width="22px" src="./img/c-sharp.svg" />
-<img align="left" alt=".Net Core" width="22px" src="./img/dotnetCore.svg" />
-<img align="left" alt="Flutter" width="22px" src="./img/flutter.svg" />
-<img align="left" alt="Dart" width="22px" src="./img/dart.svg" />
-<img align="left" alt="React" width="22px" src="./img/react.svg" />
-<img align="left" alt="Angular" width="22px" src="./img/angular.svg" />
-<img align="left" alt="Typescript" width="22px" src="./img/typescript.svg" />
-<img align="left" alt="Azure" width="22px" src="./img/azure.svg" />
-<img align="left" alt="Azure DevOps" width="22px" src="./img/azurePipelines.svg" />
-<img align="left" alt="SQL Server" width="22px" src="./img/microsoftSqlServer.svg" />
-<img align="left" alt="Node" width="22px" src="./img/nodejs.svg" />
-<img align="left" alt="npm" width="22px" src="./img/npm.svg" />
-<img align="left" alt="Webpack" width="22px" src="./img/webpack.svg" />
-<img align="left" alt="Sass" width="22px" src="./img/sass.svg" />
-<img align="left" alt="Semantic UI" width="22px" src="./img/semantic-ui.svg" />
-<img align="left" alt="Storybook" width="22px" src="./img/storybook.svg" />
-<img align="left" alt="Arduino" width="22px" src="./img/arduino.svg" />
+<img align="left" alt="C#" height="22px" src="./img/c-sharp.svg" />
+<img align="left" alt=".Net Core" height="22px" src="./img/dotnetCore.svg" />
+<img align="left" alt="Flutter" height="22px" src="./img/flutter.svg" />
+<img align="left" alt="Dart" height="22px" src="./img/dart.svg" />
+<img align="left" alt="React" height="22px" src="./img/react.svg" />
+<img align="left" alt="Angular" height="22px" src="./img/angular.svg" />
+<img align="left" alt="Typescript" height="22px" src="./img/typescript.svg" />
+<img align="left" alt="Azure" height="22px" src="./img/azure.svg" />
+<img align="left" alt="Azure DevOps" height="22px" src="./img/azurePipelines.svg" />
+<img align="left" alt="SQL Server" height="22px" src="./img/microsoftSqlServer.svg" />
+<img align="left" alt="Node" height="22px" src="./img/nodejs.svg" />
+<img align="left" alt="npm" height="22px" src="./img/npm.svg" />
+<img align="left" alt="Webpack" height="22px" src="./img/webpack.svg" />
+<img align="left" alt="Sass" height="22px" src="./img/sass.svg" />
+<img align="left" alt="Semantic UI" height="22px" src="./img/semantic-ui.svg" />
+<img align="left" alt="Storybook" height="22px" src="./img/storybook.svg" />
+<img align="left" alt="Arduino" height="22px" src="./img/arduino.svg" />
 
 ### Contact me:
-[<img align="left" alt="kurtlourens.com" width="22px" src="./img/KurtAvatar.svg" />][website]
+[<img align="left" alt="kurtlourens.com" height="22px" src="./img/KurtAvatar.svg" />][website]
 [<img align="left" alt="Email" width="22px" src="./img/email.svg" />][email]
 [<img align="left" alt="Twitter" width="22px" src="./img/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="./img/linkedIn.svg" />][linkedin]
