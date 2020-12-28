@@ -13,9 +13,9 @@
 - [<img align="left" alt="secret.com" width="22px" src="./img/unknown.png" />][AssistantTopsy]Assistant for TOPSECRET
 
 ### Favourite Technologies:
-[<img align="left" alt="Flutter" width="22px" src="./img/flutter.svg" />][Flutter]
-[<img align="left" alt="C#" width="22px" src="./img/c-sharp.svg" />][C#]
-[<img align="left" alt="Typescript" width="22px" src="./img/typescript.svg" />][Typescript]
+<img align="left" alt="Flutter" width="22px" src="./img/flutter.svg" />
+<img align="left" alt="C#" width="22px" src="./img/c-sharp.svg" />
+<img align="left" alt="Typescript" width="22px" src="./img/typescript.svg" />
 
 ### Contact me:
 [<img align="left" alt="kurtlourens.com" width="22px" src="./img/globe.svg" />][email]
