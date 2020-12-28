@@ -9,9 +9,13 @@
 ### Projects:
 
 - [<img align="left" alt="nmsassistant.com" width="22px" src="./img/assistantNMS.png" />][assistantnms]Assistant for No Man's Sky
-- [<img align="left" alt=scrapassistant.com" width="22px" src="./img/assistantSMS.png" />][assistantsms]Assistant for Scrap Mechanic
+- [<img align="left" alt="scrapassistant.com" width="22px" src="./img/assistantSMS.png" />][assistantsms]Assistant for Scrap Mechanic
 - [<img align="left" alt="secret.com" width="22px" src="./img/unknown.png" />][Assistant for TOPSECRET]Assistant for TOPSECRET
 
+### Favourite Technologies:
+[<img align="left" alt="Flutter" width="22px" src="./img/flutter.svg" />][Flutter]
+[<img align="left" alt="C#" width="22px" src="./img/c-sharp.svg" />][C#]
+[<img align="left" alt="Typescript" width="22px" src="./img/typescript.svg" />][Typescript]
 
 ### Contact me:
 [<img align="left" alt="kurtlourens.com" width="22px" src="./img/globe.svg" />][email]
