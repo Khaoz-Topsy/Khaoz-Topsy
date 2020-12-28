@@ -34,10 +34,10 @@
 <br />
 
 ### Contact me:
-[<img align="left" alt="kurtlourens.com" height="22px" src="./img/KurtAvatar.svg" />][website]
-[<img align="left" alt="Email" width="22px" src="./img/email.svg" />][email]
-[<img align="left" alt="Twitter" width="22px" src="./img/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="./img/linkedIn.svg" />][linkedin]
+[<img align="left" alt="kurtlourens.com" height="30px" src="./img/KurtAvatar.svg" />][website]
+[<img align="left" alt="Email" width="30px" src="./img/email.svg" />][email]
+[<img align="left" alt="Twitter" width="30px" src="./img/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="30px" src="./img/linkedIn.svg" />][linkedin]
 
 <br />
 
