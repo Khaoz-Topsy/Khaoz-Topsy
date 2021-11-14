@@ -50,7 +50,7 @@
 - [Migrating to React from Durandal, slowly](https://blog.kurtlourens.com/migrating-to-react-from-durandal/)
 - [Stream Emojis - Build it yourself 🛠](https://blog.kurtlourens.com/stream-emojis-build-it-yourself/)
 - [Localization / Localisation - Part 1](https://blog.kurtlourens.com/localization-localisation/)
-- [1 Year since launching the Assistant for No Man's Sky](https://blog.kurtlourens.com/1-year-since-launching-the-assistant-for-no-mans-sky/)
+- [1 Year since launching the Assistant for No Man&#39;s Sky](https://blog.kurtlourens.com/1-year-since-launching-the-assistant-for-no-mans-sky/)
 - [Static Site generation the hard way](https://blog.kurtlourens.com/static-site-generation-the-hard-way/)
 <!-- BLOG-POST-LIST:END -->
 
