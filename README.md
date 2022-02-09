@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on creating a bunch of [Assistant Apps][assistantAppsWebsite]!
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Flutter
-- 🥅 2021 Goals: Get `Assistant for TOPSECRET` released on Google Play and Apple App Store
+- 🥅 2022 Goals: Get `Assistant for TOPSECRET` released on Google Play and Apple App Store
 
 ### Projects:
 
