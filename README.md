@@ -1,7 +1,7 @@
 # Hi there, I'm Kurt 👋
 *[about.me/kurt.lourens](https://about.me/kurt.lourens)*
 
-## I love to learn by building projects 😅
+## I love to learn by building projects, so many projects 😅
 - 🔭 I’m currently working on creating a bunch of [Assistant Apps][assistantAppsWebsite]!
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Flutter
