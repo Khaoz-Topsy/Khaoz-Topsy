@@ -58,6 +58,9 @@
 
 <img align="left" alt="Kurt's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Khaoz-Topsy&show_icons=true&hide_border=true" />
 
+
+![Profile views](https://komarev.com/ghpvc/?username=Khaoz-Topsy&color=green&style=for-the-badge)
+
 [website]: https://kurtlourens.com
 [assistantappswebsite]: https://assistantapps.com
 [assistantnms]: https://nmsassistant.com
