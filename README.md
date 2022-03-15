@@ -56,8 +56,7 @@
 
 ---
 
-<img align="left" alt="Kurt's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Khaoz-Topsy&show_icons=true&hide_border=true" />
-
+<img align="left" alt="Kurt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Khaoz-Topsy&show_icons=true&hide_border=true&theme=default" /><br /><br /><br />
 
 ![Profile views](https://komarev.com/ghpvc/?username=Khaoz-Topsy&color=green&style=for-the-badge)
 
