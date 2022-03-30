@@ -1,5 +1,5 @@
 # Hi there, I'm Kurt 👋
-*[about.me/kurt.lourens](https://about.me/kurt.lourens)*
+*[about.me/kurt.lourens](https://about.me/kurt.lourens)* <br/>
 *[playground.kurtlourens.com](https://playground.kurtlourens.com)*
 
 ## I love to learn by building projects, so many projects 😅
