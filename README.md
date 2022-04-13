@@ -65,7 +65,7 @@
 [assistantappswebsite]: https://assistantapps.com
 [assistantnms]: https://nmsassistant.com
 [assistantsms]: https://scrapassistant.com
-[twitter]: https://twitter.com/Khaoz-Topsy
+[twitter]: https://twitter.com/KhaozTopsy
 [email]: mailto:hi@kurtlourens.com
 [linkedin]: https://www.linkedin.com/in/kurtlourensza/
 [devtalkplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
