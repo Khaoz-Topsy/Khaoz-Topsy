@@ -62,14 +62,22 @@
   <img alt="Kurt's Github Stats" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Khaoz-Topsy&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j" />
 </div>
 
+<div align="center">
+  
+  [![Follow on Twitter](https://img.shields.io/twitter/follow/AssistantNMS?color=%231d9bf0&style=for-the-badge)][assistantnmsTwitter]
+  [![Discord](https://img.shields.io/discord/625007826913198080?style=for-the-badge)][discord]
+  ![Profile views](https://komarev.com/ghpvc/?username=Khaoz-Topsy&color=green&style=for-the-badge)
+  
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=Khaoz-Topsy&color=green&style=for-the-badge)
 
-[website]: https://kurtlourens.com
-[assistantappswebsite]: https://assistantapps.com
-[assistantnms]: https://nmsassistant.com
-[assistantsms]: https://scrapassistant.com
-[twitter]: https://twitter.com/KhaozTopsy
+[website]: https://kurtlourens.com?ref=KhaozTopsyGithub
+[assistantappswebsite]: https://assistantapps.com?ref=KhaozTopsyGithub
+[assistantnms]: https://nmsassistant.com?ref=KhaozTopsyGithub
+[assistantsms]: https://scrapassistant.com?ref=KhaozTopsyGithub
+[twitter]: https://twitter.com/KhaozTopsy?ref=KhaozTopsyGithub
 [email]: mailto:hi@kurtlourens.com
-[linkedin]: https://www.linkedin.com/in/kurtlourensza/
+[linkedin]: https://www.linkedin.com/in/kurtlourensza/?ref=KhaozTopsyGithub
 [devtalkplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[assistantnmsTwitter]: https://twitter.com/AssistantNMS?ref=KhaozTopsyGithub
+[discord]: https://assistantapps.com/discord?ref=KhaozTopsyGithub
