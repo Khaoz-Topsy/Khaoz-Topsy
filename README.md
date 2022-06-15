@@ -57,10 +57,9 @@
 
 ---
 
-<div>
-  <img alt="Kurt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Khaoz-Topsy&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img alt="Kurt's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Khaoz-Topsy&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats" />
-</div>
+<img align="left" alt="Kurt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Khaoz-Topsy&show_icons=true&hide_border=true&theme=tokyonight" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Khaoz-Topsy&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Khaoz-Topsy&color=green&style=for-the-badge)
 
