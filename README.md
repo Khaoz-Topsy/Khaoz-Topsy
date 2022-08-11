@@ -58,11 +58,13 @@
 ---
 
 <div>
-  <img alt="Kurt's Github Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=Khaoz-Topsy&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img alt="Kurt's Github Stats" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Khaoz-Topsy&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j" />
+  <img alt="Kurt's Github Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=Khaoz-Topsy&show_icons=true&hide_border=true&theme=github_dark" />
+  <img alt="Kurt's Github Stats" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Khaoz-Topsy&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j" />
 </div>
 
 <div align="center">
+    
+  <img alt="More stats" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khaoz-Topsy&theme=github_dark" />
   
   [![Follow on Twitter](https://img.shields.io/twitter/follow/AssistantNMS?color=%231d9bf0&style=for-the-badge)][assistantnmsTwitter]
   [![Discord](https://img.shields.io/discord/625007826913198080?style=for-the-badge)][discord]
