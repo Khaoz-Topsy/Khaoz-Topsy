@@ -1,4 +1,5 @@
 # Hi there, I'm Kurt 👋
+*[kurtlourens.com](https://kurtlourens.com)* <br/>
 *[about.me/kurt.lourens](https://about.me/kurt.lourens)* <br/>
 *[playground.kurtlourens.com](https://playground.kurtlourens.com)*
 
@@ -64,7 +65,7 @@
 
 <div align="center">
     
-  <img alt="More stats" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khaoz-Topsy&theme=github_dark" />
+  <img alt="More stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khaoz-Topsy&theme=github_dark" />
   
   [![Follow on Twitter](https://img.shields.io/twitter/follow/AssistantNMS?color=%231d9bf0&style=for-the-badge)][assistantnmsTwitter]
   [![Discord](https://img.shields.io/discord/625007826913198080?style=for-the-badge)][discord]
