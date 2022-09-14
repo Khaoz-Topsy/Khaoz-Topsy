@@ -21,6 +21,8 @@
 <img align="left" alt="Flutter" height="22px" src="./img/flutter.svg" />
 <img align="left" alt="Dart" height="22px" src="./img/dart.svg" />
 <img align="left" alt="React" height="22px" src="./img/react.svg" />
+<img align="left" alt="SolidJS" height="22px" src="./img/solidjs.svg" />
+<img align="left" alt="Svelte" height="22px" src="./img/svelte.svg" />
 <img align="left" alt="Angular" height="22px" src="./img/angular.svg" />
 <img align="left" alt="Typescript" height="22px" src="./img/typescript.svg" />
 <img align="left" alt="Azure" height="22px" src="./img/azure.svg" />
