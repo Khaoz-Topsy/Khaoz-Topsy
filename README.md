@@ -51,11 +51,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why does software decay?](posts/software-decay)
-- [Migrating to React from Durandal, slowly](posts/migrating-to-react-from-durandal)
-- [Stream Emojis - Build it yourself 🛠](posts/stream-emojis-build-it-yourself)
-- [Localization / Localisation - Part 1](posts/localization-localisation)
-- [1 Year since launching the Assistant for No Man&#39;s Sky](posts/1-year-since-launching-the-assistant-for-no-mans-sky)
+- [Why does software decay?](https://blog.kurtlourens.com/posts/software-decay)
+- [Migrating to React from Durandal, slowly](https://blog.kurtlourens.com/posts/migrating-to-react-from-durandal)
+- [Stream Emojis - Build it yourself 🛠](https://blog.kurtlourens.com/posts/stream-emojis-build-it-yourself)
+- [Localization / Localisation - Part 1](https://blog.kurtlourens.com/posts/localization-localisation)
+- [1 Year since launching the Assistant for No Man&#39;s Sky](https://blog.kurtlourens.com/posts/1-year-since-launching-the-assistant-for-no-mans-sky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
