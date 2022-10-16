@@ -51,11 +51,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure DevOps agent on Ubuntu 22.04 LTS](https://blog.kurtlourens.com/posts/quickfix-azdo-agent-on-ubuntu-22-lts)
 - [Why does software decay?](https://blog.kurtlourens.com/posts/software-decay)
 - [Migrating to React from Durandal, slowly](https://blog.kurtlourens.com/posts/migrating-to-react-from-durandal)
 - [Stream Emojis - Build it yourself 🛠](https://blog.kurtlourens.com/posts/stream-emojis-build-it-yourself)
 - [Localization / Localisation - Part 1](https://blog.kurtlourens.com/posts/localization-localisation)
-- [1 Year since launching the Assistant for No Man&#39;s Sky](https://blog.kurtlourens.com/posts/1-year-since-launching-the-assistant-for-no-mans-sky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
