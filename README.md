@@ -3,10 +3,6 @@
 *[about.me/kurt.lourens](https://about.me/kurt.lourens)* <br/>
 *[playground.kurtlourens.com](https://playground.kurtlourens.com)*
 
-<a href="https://holopin.io/@khaoztopsy">
-  <img src="https://www.holopin.me/khaoztopsy" alt="@khaoztopsy's Holopin board" />
-</a>
-
 ## I love to learn by building projects, so many projects 😅
 - 🔭 I’m currently working on creating a bunch of [Assistant Apps][assistantAppsWebsite]!
 - 🌱 I’m currently learning Flutter
@@ -50,6 +46,11 @@
 
 <br />
 
+---
+
+<a href="https://holopin.io/@khaoztopsy">
+  <img src="https://www.holopin.me/khaoztopsy" alt="@khaoztopsy's Holopin board" />
+</a>
 
 ---
 
