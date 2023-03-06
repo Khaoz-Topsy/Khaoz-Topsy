@@ -1,13 +1,11 @@
 <div align="center">
-
-  # Hi there, I'm Kurt 👋
-  *[kurtlourens.com](https://kurtlourens.com)* <br/>
-  *[about.me/kurt.lourens](https://about.me/kurt.lourens)* <br/>
-  *[playground.kurtlourens.com](https://playground.kurtlourens.com)*
   
   ![header](https://raw.githubusercontent.com/Khaoz-Topsy/Khaoz-Topsy/master/img/kurt-lourens-header.svg)
 
-  <br /> 
+  *[kurtlourens.com](https://kurtlourens.com)* <br/>
+  *[about.me/kurt.lourens](https://about.me/kurt.lourens)* <br/>
+  *[playground.kurtlourens.com](https://playground.kurtlourens.com)*<br /> 
+  
 </div>
 
 ## I love to learn by building projects, so many projects 😅
