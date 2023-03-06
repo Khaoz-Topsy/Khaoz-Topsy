@@ -1,7 +1,14 @@
-# Hi there, I'm Kurt 👋
-*[kurtlourens.com](https://kurtlourens.com)* <br/>
-*[about.me/kurt.lourens](https://about.me/kurt.lourens)* <br/>
-*[playground.kurtlourens.com](https://playground.kurtlourens.com)*
+<div align="center">
+
+  # Hi there, I'm Kurt 👋
+  *[kurtlourens.com](https://kurtlourens.com)* <br/>
+  *[about.me/kurt.lourens](https://about.me/kurt.lourens)* <br/>
+  *[playground.kurtlourens.com](https://playground.kurtlourens.com)*
+  
+  ![header](https://raw.githubusercontent.com/Khaoz-Topsy/Khaoz-Topsy/master/img/kurt-lourens-header.svg)
+
+  <br /> 
+</div>
 
 ## I love to learn by building projects, so many projects 😅
 - 🔭 I’m currently working on creating a bunch of [Assistant Apps][assistantAppsWebsite]!
