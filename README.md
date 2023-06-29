@@ -10,14 +10,17 @@
 
 ## I love to learn by building projects, so many projects 😅
 - 🔭 I’m currently working on creating a bunch of [Assistant Apps][assistantAppsWebsite]!
-- 🌱 I’m currently learning Flutter
+- 💪 I’m currently excelling at Flutter
+- 🌱 I’m always improving
 - 💬 Ask me about Flutter
-- 🥅 2023 Goals: Get `Assistant for TOPSECRET` released on Google Play and Apple App Store
+- 🥅 2023 Goals: Get `Assistant for TOPSECRET` released on Google Play 
+  - ✅ Done
 
 ### Projects:
 
-- [<img align="left" alt="nmsassistant.com" width="22px" src="./img/assistantNMS.png" />Assistant for No Man's Sky][assistantnms]
-- [<img align="left" alt="scrapassistant.com" width="22px" src="./img/assistantSMS.png" />Assistant for Scrap Mechanic][assistantsms]
+- [<img align="left" alt="nmsassistant.com" width="22px" src="https://cdn.assistantapps.com/v2/nms/assistantNMSx24.png" />Assistant for No Man's Sky][assistantnms]
+- [<img align="left" alt="scrapassistant.com" width="22px" src="https://cdn.assistantapps.com/v2/sms/assistantSMSx24.png" />Assistant for Scrap Mechanic][assistantsms]
+- [<img align="left" alt="dinkum.assistant.com" width="22px" src="https://cdn.assistantapps.com/v2/dkm/assistantDKMx24.png" />Assistant for Dinkum][assistantdkm]
 - [<img align="left" alt="secret.com" width="22px" src="./img/unknown.png" />Assistant for TOPSECRET][website]
 
 ### Favourite Technologies:
@@ -78,8 +81,8 @@
 <div align="center">
     
   <img alt="More stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khaoz-Topsy&theme=github_dark" />
-  
-  [![Follow on Twitter](https://img.shields.io/twitter/follow/AssistantNMS?color=%231d9bf0&style=for-the-badge)][assistantnmsTwitter]
+
+  [![Follow on Twitter](https://img.shields.io/badge/follow-%40AssistantNMS-1d9bf0?logo=twitter&style=for-the-badge)][assistantnmsTwitter]
   [![Discord](https://img.shields.io/discord/625007826913198080?style=for-the-badge)][discord]
   ![Profile views](https://komarev.com/ghpvc/?username=Khaoz-Topsy&color=green&style=for-the-badge)
   
@@ -90,6 +93,7 @@
 [assistantappswebsite]: https://assistantapps.com?ref=KhaozTopsyGithub
 [assistantnms]: https://nmsassistant.com?ref=KhaozTopsyGithub
 [assistantsms]: https://scrapassistant.com?ref=KhaozTopsyGithub
+[assistantdkm]: https://dinkum.assistant.com?ref=KhaozTopsyGithub
 [twitter]: https://twitter.com/KhaozTopsy?ref=KhaozTopsyGithub
 [email]: mailto:hi@kurtlourens.com
 [linkedin]: https://www.linkedin.com/in/kurtlourensza/?ref=KhaozTopsyGithub
