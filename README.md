@@ -74,7 +74,7 @@
 ---
 
 <div>
-  <img alt="Kurt's Github Stats" width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Khaoz-Topsy&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&role=owner,collaborator&date_format=%5BY%20%5DM%20j" />
+  <img alt="Kurt's Github Stats" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Khaoz-Topsy&show_icons=true&hide_border=true&theme=blue-green&include_all_commits=true&role=owner,collaborator&date_format=%5BY%20%5DM%20j" />
   <img alt="Kurt's Github Stats" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Khaoz-Topsy&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j" />
 </div>
 
