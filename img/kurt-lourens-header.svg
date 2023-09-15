@@ -167,13 +167,13 @@
     }
     @keyframes ship-anim {
       0% {
-        transform: rotate(45deg) translate(116px, 460px);
+        transform: rotate(45deg) translate(17.125%, 177%);
       }
       35%, 45% {
-        transform: rotate(45deg) translate(116px, 100px);
+        transform: rotate(45deg) translate(17.125%, 0%);
       }
       100% {
-        transform: rotate(45deg) translate(116px, 100px);
+        transform: rotate(45deg) translate(17.125%, 0%);
       }
     }
 	</style>
