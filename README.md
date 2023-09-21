@@ -13,7 +13,7 @@
 - 💪 I’m currently excelling at Flutter
 - 🌱 I’m always improving
 - 💬 Ask me about Flutter
-- 🥅 2023 Goals: Get `Assistant for TOPSECRET` released on Google Play 
+- 🥅 2023 Goals: Get `Assistant for Dinkum` released on Google Play 
   - ✅ Done
 
 ### Projects:
