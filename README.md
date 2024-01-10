@@ -13,8 +13,7 @@
 - 💪 I’m currently excelling at Flutter
 - 🌱 I’m always improving
 - 💬 Ask me about Flutter
-- 🥅 2023 Goals: Get `Assistant for Dinkum` released on Google Play 
-  - ✅ Done
+- 🥅 2024 Goals: Get ready for Light No Fire and Hytale 
 
 ### Projects:
 
