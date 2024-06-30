@@ -63,11 +63,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why you should solve little problems](https://blog.kurtlourens.com/posts/solving-fun-problems)
 - [Migration to Mastodon](https://blog.kurtlourens.com/posts/mastodon-migration)
 - [Azure DevOps agent on Ubuntu 22.04 LTS](https://blog.kurtlourens.com/posts/quickfix-azdo-agent-on-ubuntu-22-lts)
 - [Why does software decay?](https://blog.kurtlourens.com/posts/software-decay)
 - [Migrating to React from Durandal, slowly](https://blog.kurtlourens.com/posts/migrating-to-react-from-durandal)
-- [Stream Emojis - Build it yourself 🛠](https://blog.kurtlourens.com/posts/stream-emojis-build-it-yourself)
 <!-- BLOG-POST-LIST:END -->
 
 ---
