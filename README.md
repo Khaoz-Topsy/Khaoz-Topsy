@@ -23,6 +23,8 @@
 - [<img align="left" alt="secret.com" width="22px" src="./img/unknown.png" />Assistant for TOPSECRET][website]
 
 ### Favourite Technologies:
+
+<span>
 <img align="left" alt="C#" height="22px" src="./img/c-sharp.svg" />
 <img align="left" alt=".Net Core" height="22px" src="./img/dotnetCore.svg" />
 <img align="left" alt="Flutter" height="22px" src="./img/flutter.svg" />
@@ -42,6 +44,7 @@
 <img align="left" alt="Semantic UI" height="22px" src="./img/semantic-ui.svg" />
 <img align="left" alt="Storybook" height="22px" src="./img/storybook.svg" />
 <img align="left" alt="Arduino" height="22px" src="./img/arduino.svg" />
+</span>
 
 <br />
 
@@ -73,8 +76,8 @@
 ---
 
 <div>
-  <img alt="Kurt's Github Stats" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Khaoz-Topsy&show_icons=true&hide_border=true&theme=blue-green&include_all_commits=true&role=owner,collaborator&date_format=%5BY%20%5DM%20j" />
-  <img alt="Kurt's Github Stats" width="49%" src="https://github-readme-streak-stats-pink.vercel.app?user=Khaoz-Topsy&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j" />
+  <img alt="Kurt's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Khaoz-Topsy&show_icons=true&hide_border=true&theme=blue-green&include_all_commits=true&role=owner,collaborator&date_format=%5BY%20%5DM%20j" />
+  <img alt="Kurt's Github Stats" src="https://github-readme-streak-stats-pink.vercel.app?user=Khaoz-Topsy&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j" />
 </div>
 
 <div align="center">
