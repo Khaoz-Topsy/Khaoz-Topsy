@@ -13,7 +13,7 @@
 - 💪 I’m currently excelling at Flutter
 - 🌱 I’m always improving
 - 💬 Ask me about Flutter
-- 🥅 2024 Goals: Get ready for Light No Fire and Hytale 
+- 🥅 2026 Goals: Get ready for Light No Fire and Hytale 
 
 ### Projects:
 
